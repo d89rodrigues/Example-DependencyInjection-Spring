@@ -6,7 +6,7 @@ Injeção de Dependência com Spring - IoC Container
 
 3º: Beans com @Component
 
-4º: Injetando depêndencia (beans Spring)
+4º: Injetando Dependência (beans Spring)
 
 5º: @Configuration e @Bean para definir beans
 
